@@ -4,5 +4,5 @@
 Phase One:
 Build the twitter scrapper
 
-Phase Three:
+Phase Two:
 Build the ML for the tweets
